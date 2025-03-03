@@ -1,5 +1,5 @@
-**Pokémon Legendary Classifier: A Machine Learning Exploration
-**
+Pokémon Legendary Classifier: A Machine Learning Exploration
+
 Pokémon has been a significant part of my life—from trading cards with classmates in elementary school to competing in TCG tournaments and playing the video games on emulators. As a longtime fan, I’ve followed this iconic Japanese franchise since childhood. However, as I’ve grown older, my interactions with Pokémon have become less frequent. Now, as a college student studying Statistics and Machine Learning at CMU, I’ve been learning various machine learning concepts through my coursework. This project is an opportunity to merge my passion for Pokémon with my knowledge of data science and machine learning by building a classifier that predicts whether a Pokémon is Legendary.
 
 According to the Pokémon Wikipedia page, Legendary Pokémon are described as:
