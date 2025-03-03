@@ -13,7 +13,7 @@ Project Overview
 
 This repository includes:
 - Two Pokémon datasets from Kaggle that contain information on Pokémon stats, types, and other attributes:
-    - A dataset that has up to the 7th generation of Pokémon(https://www.kaggle.com/datasets/rounakbanik/pokemon/data). 
+    - A dataset that has up to the 7th generation of Pokémon (https://www.kaggle.com/datasets/rounakbanik/pokemon/data). 
     - A more developed and complex dataset that has up to the 8th generation of Pokémon (https://www.kaggle.com/datasets/cristobalmitchell/pokedex/data).
 - A preprocessed version of the datasets above (In Progress). 
 - Exploratory Data Analysis and preprocessing of the datasets (In Progress). 
