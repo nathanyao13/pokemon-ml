@@ -1,4 +1,4 @@
-Pokémon Legendary Classifier: A Machine Learning Exploration
+Pokémon Legendary Classifier: A Machine Learning Exploration 
 
 Pokémon has been a significant part of my life—from trading cards with classmates in elementary school to competing in TCG tournaments and playing the video games on emulators. As a longtime fan, I’ve followed this iconic Japanese franchise since childhood. However, as I’ve grown older, my interactions with Pokémon have become less frequent. Now, as a college student studying Statistics and Machine Learning at CMU, I’ve been learning various machine learning concepts through my coursework. This project is an opportunity to merge my passion for Pokémon with my knowledge of data science and machine learning by building a classifier that predicts whether a Pokémon is Legendary.
 
@@ -12,9 +12,12 @@ As a Pokémon fan, Legendary Pokémon have always carried an air of mystery and 
 Project Overview
 
 This repository includes:
-- A dataset sourced from Kaggle (https://www.kaggle.com/datasets/rounakbanik/pokemon/data) containing information on Pokémon stats, types, and other attributes.
-- Exploratory Data Analysis and preprocessing of the dataset. 
-- A Decision Tree Classifier to predict whether a Pokémon is Legendary.
-- A Neural Network Classifier to explore a more advanced approach to classification.
+- Two Pokémon datasets from Kaggle that contain information on Pokémon stats, types, and other attributes:
+    - A dataset that has up to the 7th generation of Pokémon(https://www.kaggle.com/datasets/rounakbanik/pokemon/data). 
+    - A more developed and complex dataset that has up to the 8th generation of Pokémon (https://www.kaggle.com/datasets/cristobalmitchell/pokedex/data).
+- A preprocessed version of the datasets above (In Progress). 
+- Exploratory Data Analysis and preprocessing of the datasets (In Progress). 
+- A Decision Tree Classifier to predict whether a Pokémon is Legendary (Complete, Accuracy: 100%).
+- A Neural Network Classifier to explore a more advanced approach to classification (In Progress).
 
 
