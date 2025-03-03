@@ -7,7 +7,7 @@ According to the Pokémon Wikipedia page, Legendary Pokémon are described as:
 “A group of incredibly rare and often very powerful Pokémon. They are often featured prominently in the legends and myths of the Pokémon world, with some even going so far as to view them as deities … No explicit criteria define what makes a Pokémon a Legendary Pokémon. Instead, the only way to identify a Pokémon as belonging to this group is through statements from official media, such as the games or animation.”
 
 
-As a Pokémon fan, Legendary Pokémon have always carried an air of mystery and admiration. My goal in this project is to leverage machine learning techniques to build a classifier that can identify Legendary Pokémon based on a dataset covering all Pokémon from the first seven generations.
+As a Pokémon fan, Legendary Pokémon have always carried an air of mystery and admiration. My goal in this project is to leverage machine learning techniques to build a classifier that can identify Legendary Pokémon based on a dataset covering all Pokémon from the first seven generations and explore some more complex Pokémon problems to solve with machine learning. 
 
 Project Overview
 
