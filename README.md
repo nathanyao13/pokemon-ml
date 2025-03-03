@@ -18,6 +18,6 @@ This repository includes:
 - A preprocessed version of the datasets above (In Progress). 
 - Exploratory Data Analysis and preprocessing of the datasets (In Progress). 
 - A Decision Tree Classifier to predict whether a Pokémon is Legendary (Complete, Accuracy: 100%).
-- A Neural Network Classifier to explore a more advanced approach to classification (In Progress).
+- A Neural Network model to explore a more advanced problem (In Progress).
 
 
