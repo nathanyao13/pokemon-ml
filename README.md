@@ -12,7 +12,7 @@ As a Pokémon fan, Legendary Pokémon have always carried an air of mystery and 
 Project Overview
 
 This repository includes:
-- A dataset sourced from [Kaggle]([url](https://www.kaggle.com/datasets/rounakbanik/pokemon/data)) containing information on Pokémon stats, types, and other attributes.
+- A dataset sourced from Kaggle (https://www.kaggle.com/datasets/rounakbanik/pokemon/data) containing information on Pokémon stats, types, and other attributes.
 - Exploratory Data Analysis (EDA) to uncover key patterns and relationships in the dataset.
 - A Decision Tree Classifier to predict whether a Pokémon is Legendary.
 - A Neural Network Classifier to explore a more advanced approach to classification.
