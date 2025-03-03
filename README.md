@@ -13,7 +13,7 @@ Project Overview
 
 This repository includes:
 - A dataset sourced from Kaggle (https://www.kaggle.com/datasets/rounakbanik/pokemon/data) containing information on Pokémon stats, types, and other attributes.
-- Exploratory Data Analysis (EDA) to uncover key patterns and relationships in the dataset.
+- Exploratory Data Analysis and preprocessing of the dataset. 
 - A Decision Tree Classifier to predict whether a Pokémon is Legendary.
 - A Neural Network Classifier to explore a more advanced approach to classification.
 
